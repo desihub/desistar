@@ -11,7 +11,7 @@ FERRE (githum.com/callendeprieto/ferre), which does the actual interpolation.
 
 The input libraries must be in FERRE format. Examples used in DESI are
 available at
-ftp://carlos:allende@ftp.ll.iac.es/bossgrids/nscgrids3
+ftp://carlos:allende@ftp.ll.iac.es/desi/stellar_templates
 
 
 Product Name
