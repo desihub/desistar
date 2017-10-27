@@ -1,0 +1,8 @@
+#script to transform the original ascii libraries to direct-access binares
+echo "n_nsc1.dat \nunf" | ~/ferre/src/ascii2bin
+echo "n_nsc2.dat \nunf" | ~/ferre/src/ascii2bin
+echo "n_nsc3.dat \nunf" | ~/ferre/src/ascii2bin
+echo "n_nsc4.dat \nunf" | ~/ferre/src/ascii2bin
+echo "n_nsc5.dat \nunf" | ~/ferre/src/ascii2bin
+echo "n_10kbt1.dat \nunf" | ~/ferre/src/ascii2bin
+
