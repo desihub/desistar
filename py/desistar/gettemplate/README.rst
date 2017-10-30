@@ -13,6 +13,8 @@ The input libraries must be in FERRE format. Examples used in DESI are
 available at
 ftp://carlos:allende@ftp.ll.iac.es/desi/stellar_templates
 
+The libraries need to be in direct-access binary format for efficiency. They can be converted with the included shell script 'mkbin'.
+
 
 Product Name
 ============
